@@ -4,6 +4,11 @@ Welcome to **The Shawshank Prediction Project**, where machine learning meets a 
 
 ---
 
+## Medium Article
+
+Here's the link to the Medium article: [The Shawshank Prediction: A Machine Learning Journey Through the Corporate Prison of Employee Attrition](https://medium.com/@akhilxox/the-shawshank-prediction-a-machine-learning-journey-through-the-corporate-prison-of-employee-23b8f0f685a0)
+
+
 ## 📖 Project Overview
 
 Imagine a prison-like company, **Corporateville Inc.**, where employees are quietly breaking out (a.k.a. quitting) without anyone really understanding why. Enter our protagonist: **Andy Dufresne**, a data science intern who’s about to uncover the hidden factors leading to attrition. Using a **Random Forest model** to predict employee exits and **SHAP** to interpret the model’s decisions, this project helps Corporateville understand why their folks are running for the hills.
